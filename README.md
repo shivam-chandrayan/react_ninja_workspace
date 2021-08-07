@@ -16,7 +16,6 @@
 - Pagination is add on
 
 **API Details**
-- Postman Collection Link - https://www.getpostman.com/collections/5dfbcd9789e5ec3722df
 
 1. Login API - POST - https://reqres.in/api/login 
 
@@ -55,7 +54,9 @@ _Sample Response_
 }
 ```
 
-_Using APIs made for developers and designers by [Ben Howdle](https://benhowdle.im/)_
+[![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/5dfbcd9789e5ec3722df?action=collection%2Fimport)
+
+_APIs made for developers and designers by [Ben Howdle](https://benhowdle.im/)_
 
 
 **Other Assets**
