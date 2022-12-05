@@ -1,0 +1,19 @@
+.App {
+  background: '#F2FAFF';
+}
+
+/* .container-fluid {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: #F2FAFF;
+} */
+
+.container {
+  background: red;
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  left: 0px;
+}

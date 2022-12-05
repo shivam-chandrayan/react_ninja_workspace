@@ -1,0 +1,11 @@
+.bg-primary {
+    background: #0494FD !important;
+}
+
+.logo-container {
+    margin: 18px 24px;
+}
+
+.pagination {
+    justify-content: center;
+}
